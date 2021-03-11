@@ -1,0 +1,12 @@
+.normal-version {
+  width: 100%;
+  height: auto;
+  margin: 6px 0;
+  background-image: url("images/delphine_avatar.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  /*background-size: cover; */
+  background-blend-mode: multiply;
+  background-color: slategrey;
+}
